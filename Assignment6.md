@@ -6,7 +6,7 @@ Website:
 Backend:
     - 
 
-what functionalities do not need unit tests
+what functionalities need unit tests
 
 Website:
     - 
