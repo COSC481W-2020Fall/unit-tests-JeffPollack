@@ -1,7 +1,7 @@
 What functionalities your project has now?
 
 Website:
-    - Generate graph
+    [] Generate graph
     - Search and filter country list
     - Select countries
     - Select data type
