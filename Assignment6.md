@@ -1,30 +1,37 @@
-what functionalities your project has now
+What functionalities your project has now?
 
 Website:
-    - 
+    - Generate graph
+    - Search and filter country list
+    - Select countries
+    - Select data type
+    - Select graph type
+    - View about us page
+    - View blog posts
     
 Backend:
-    - 
+    - Generate graphs
+    - Convert graph to HTML string
+    - Upload CSV file to database
+    - Blog posts saved to database
 
-what functionalities need unit tests
+What functionalities need unit tests?
 
 Website:
-    - 
+    - Search and filter country list 
     
 Backend:
-    - 
-what functionalities do not need unit tests
+    - Upload CSV file to database
+    - Convert graph to HTML string (my test in test.py)
+    - Blog posts saved to database
+    - Generate graphs
+    
+What functionalities do not need unit tests?
 
 Website:
-    - 
-    
-Backend:
-    - 
-    
-how to write unit tests in your project (try to use a convention but make sure it's simple enough for your team to manage)
-
-Website:
-    -  
-
-Backend:
-    - 
+    - Generate graph
+    - Select countries
+    - Select data type
+    - Select graph type
+    - View about us page
+    - View blog posts
